@@ -42,5 +42,5 @@ In this project, I utilized SQL to analyze customer churn drivers, focusing on c
 ## Core Competencies
 
 - **Methodologies**: Machine Learning (Supervised & Unsupervised Learning, Model evaluation, and Dimensionality Reduction), Deep Learning (Basics), Statistics (Descriptive & Inferential Statistics, Hypothesis Testing, and Statistical Measures)
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib), SQL
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn), SQL
 - **Tools**: MySQL, MS Power BI, MS Excel
